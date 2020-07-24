@@ -16,7 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
-
+##
 project = 'Sphinx2'
 copyright = '2020, Evan Vienneau'
 author = 'Evan Vienneau'
